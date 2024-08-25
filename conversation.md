@@ -1,0 +1,1 @@
+This project features a 3D nested rotating spheres interface where each sphere contains menu items for selecting models, customizing prompts, and applying effects for AI image generation. The interface provides real-time previews of the generated images. The backend uses Flask to handle model selection, prompt generation, and image generation.
